@@ -1,0 +1,30 @@
+{
+  "name": "closertogeorgevi",
+  "version": "1.0.0",
+  "description": "Tweets events that happened closer to the start of Queen Elizabeth II's reign than today",
+  "main": "bot.js",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "grunt": "^0.4.5",
+    "jshint": "^2.8.0",
+    "moment": "^2.10.6",
+    "array-splice": "^0.1.1",
+    "q": "^1.4.1",
+    "request": "^2.55.0",
+    "sync-request": "^2.0.1",
+    "underscore.deferred": "^0.4.0",
+    "twit": "^1.1.20",
+    "underscore": "^1.8.3",
+    "xml2js": "^0.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "twitter"
+  ],
+  "author": "Ryan Bayne",
+  "license": "MIT"
+}
